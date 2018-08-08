@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Contiki files
+symbols.c
+symbols.h
+obj_*
+
+*.minimal-net
